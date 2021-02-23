@@ -1,3 +1,3 @@
-# Programming_Techniques
+# Programming Techniques
 
 Homework assignments solutions for Programming Techniques course.
